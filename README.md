@@ -12,9 +12,9 @@ O site funciona como um cartão de visitas digital rápido e confiável, reunind
 
 ## Justificativa da solução escolhida
 
-Optamos por uma página única (`index.html`), construída com HTML5 semântico (`header`, `main`, `section`, `table`, `address`, `footer`), sem frameworks ou dependências externas — mantendo a solução simples e alinhada ao nível da disciplina, mas ainda assim profissional e responsiva.
+Optamos por uma página única (`index.html`), construída com HTML5 semântico (`header`, `main`, `section`, `table`, `address`, `footer`), sem frameworks ou dependências externas, mantendo a solução simples e alinhada ao nível da disciplina, mas ainda assim profissional e responsiva.
 
-O layout segue a hierarquia definida no wireframe de baixa fidelidade (Passo 2): nome e identidade da loja em primeiro plano, seguidos imediatamente pelo bloco de endereço/horário/WhatsApp — as três respostas que o público mais jovem busca antes de sair de casa —, depois o texto institucional, a lista de produtos da semana, o mapa/endereço detalhado e, por fim, o rodapé com direitos autorais e redes sociais. Essa ordem prioriza a decisão rápida do visitante sem abrir mão da tradição de mais de 40 anos que o Seu Zé quer manter viva na página.
+O layout segue a hierarquia definida no wireframe de baixa fidelidade (Passo 2): nome e identidade da loja em primeiro plano, seguidos imediatamente pelo bloco de endereço/horário/WhatsApp as três respostas que o público mais jovem busca antes de sair de casa, depois o texto institucional, a lista de produtos da semana, o mapa/endereço detalhado e, por fim, o rodapé com direitos autorais e redes sociais. Essa ordem prioriza a decisão rápida do visitante sem abrir mão da tradição de mais de 40 anos que o Seu Zé quer manter viva na página.
 
 ## Como visualizar
 
