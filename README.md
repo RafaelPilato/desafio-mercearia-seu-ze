@@ -16,11 +16,6 @@ Optamos por uma página única (`index.html`), construída com HTML5 semântico 
 
 O layout segue a hierarquia definida no wireframe de baixa fidelidade (Passo 2): nome e identidade da loja em primeiro plano, seguidos imediatamente pelo bloco de endereço/horário/WhatsApp as três respostas que o público mais jovem busca antes de sair de casa, depois o texto institucional, a lista de produtos da semana, o mapa/endereço detalhado e, por fim, o rodapé com direitos autorais e redes sociais. Essa ordem prioriza a decisão rápida do visitante sem abrir mão da tradição de mais de 40 anos que o Seu Zé quer manter viva na página.
 
-## Como visualizar
-
-1. Clone este repositório.
-2. Abra o arquivo `index.html` diretamente no navegador (não é necessário instalar nada).
-
 ## Equipe
 
 Mini-currículos dos integrantes, para avaliação do Seu Zé e do Lucas.
